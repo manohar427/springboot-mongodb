@@ -1,4 +1,4 @@
-package com.techprimers.mongodb.springbootmongodbexample;
+package com.test.mongodb.springbootmongodbexample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
