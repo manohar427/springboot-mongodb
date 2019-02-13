@@ -3,7 +3,7 @@ package com.test.mongodb.springbootmongodbexample.document;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
-@Document
+@Document(value = "UserDocuments")
 public class Users {
 
     @Id
